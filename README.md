@@ -1,4 +1,4 @@
-# PTDLUD_DATH_2
+# PTDLUD_DATH
 Đồ án thực hành phân tích dữ liệu ứng dụng
 
 ### How to remove LFS
